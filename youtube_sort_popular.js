@@ -1,0 +1,1 @@
+javascript:(open(location.href+'?view=0&sort=p'))
